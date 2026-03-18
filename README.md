@@ -25,7 +25,7 @@ An AI-powered application that generates creative stories and matching book cove
 ```bash
 git clone https://github.com/narasimhagaddam/story-generator-with-book-covers.git
 2. Navigate to the project folder:
-```bash
+bash
 cd story-generator-with-book-covers
 
 ---
@@ -34,19 +34,19 @@ cd story-generator-with-book-covers
 
 👉 Very important for your API:
 
-```markdown
+markdown
 ## 🔐 Environment Variables
 
 Create a `.env` file and add:
 
-```env
+env
 OPENAI_API_KEY=your_api_key_here
 
 ---
 
 ### 4. Add Output Example (Makes it impressive 🔥)
 
-```markdown
+markdown
 ## 📸 Output Example
 
 Input: "A boy who discovers a hidden world"
